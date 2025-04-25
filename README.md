@@ -1,6 +1,6 @@
 Introduction to Computer Programming Project :
 This project is designed to evaluate fundamental programming concepts using Python. It covers topics like data types, operators, 
-conditionals, loops, object-oriented programming (OOP), exception handling, and more. The goal is to solve coding problems, submit Python code solutions, and explain them through a video presentation.
+conditionals, loops, object-oriented programming (OOP), exception handling, and more. The goal is to solve coding problems, submit Python code solutions.
 
 Project Overview:
 Objective: Solve 30 coding questions covering algorithms, data structures, and various programming paradigms.
